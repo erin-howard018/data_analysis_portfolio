@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: Erin Howard
+logo: https://github.com/erin-howard018/erin-howard018/blob/main/circle_headshot
+description: Data Analytics Portfolio
+show_downloads: true
+theme: jekyll-theme-minimal
