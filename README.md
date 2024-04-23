@@ -1,5 +1,5 @@
 # Erin's Portfolio
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+This section contains brief descriptions of the projects data analytics I have undertaken. 
 
 ### Project 1: Name of Project
 **Code:** 
