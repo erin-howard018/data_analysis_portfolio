@@ -3,10 +3,10 @@ This section contains brief descriptions of the projects data analytics I have u
 
 ### Project 1: Cyclistic Bike-Share Case Study (Google Data Analytics Professional Certificate Capstone Project). 
 [Click here to access repository](https://github.com/erin-howard018/Cyclistic-Case-Study)
-**Aim:** 
-**Data Source:** 
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Tools:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+- **Aim:** This analysis is a capstone project case study, the final part of the Google Data Analytics Professional Certificate. For this case study, assume the real-world position of a junior data analyst on the marketing analyst team at Cyclistic, a bike-share company in Chicago and aimed to analyse data to give insight into designing a new marketing strategy that will convert casual raiders into annual members.
+- **Data Source:** Publicly available dataset (12 months of data) which can be accessed [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- **Description:** 12 individual .csv files combined to create one large dataset that recorded Cyclistic bike rides across a 12 month period. The project includes the following steps: data importing, tranformation, cleaning, EDA (exploratory data analysis), visualisation, presentation of findings and recommendations based on findings.   
+- **Skills:** data cleaning, data analysis, data visualisation.  
+- **Tools:** Excel, R and PowerBI.  
+- **Results:** Comparison of rider-type groups across variables, exploration of relationships in the data, data-driven business recommendations.
 
