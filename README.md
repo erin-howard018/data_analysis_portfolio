@@ -10,3 +10,11 @@ This section contains brief descriptions of the projects data analytics I have u
 - **Tools:** Excel, R and PowerBI.  
 - **Results:** Comparison of rider-type groups across variables, exploration of relationships in the data, data-driven business recommendations.
 
+### Project 2: Half-Marathon Training Tracker
+[Click here to access repository](https://github.com/erin-howard018/Cyclistic-Case-Study)
+- **Aim:** This is a personal data analysis project that I have undertaken because I was interested in tracking my runs in my journey for training for my half-marathon later this year. 
+- **Data Source:** Self recorded data
+- **Description:** The Excel file contains 3 worksheets; one where you are inputting data about your run, another that calculates statistics across weeks and another that tracks and forecasts statistics by months.
+- **Skills:** spreadsheet design, data analysis, data visualisation.  
+- **Tools:** Excel. 
+- **Results:** Automatically updating tracking spreadsheet that calculates summary statistics and future forecasts. 
