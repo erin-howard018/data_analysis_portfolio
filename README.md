@@ -18,4 +18,13 @@ This section contains brief descriptions of the projects data analytics I have u
 - **Description:** The Excel file contains 3 worksheets; one where you are inputting data about your run, another that calculates statistics across weeks and another that tracks and forecasts statistics by months.
 - **Skills:** spreadsheet design, data analysis, data visualisation.  
 - **Tools:** Excel. 
-- **Results:** Automatically updating tracking spreadsheet that calculates summary statistics and future forecasts. 
+- **Results:** Automatically updating tracking spreadsheet that calculates summary statistics and future forecasts.
+
+### Project 3: Combining Olympic and GDP Data Project
+[Click here to access repository](https://github.com/erin-howard018/Olympic-dataset)
+- **Aim:** I undertook this project was part of a University course. The purpose of the assignment was to undertake a data wrangling project that involved to combine two datasets in different forms, into one dataset that would allow us to gain insights and answer questions. 
+- **Data Source:** Publicly available datasets. Olympic medal dataset can be accessed [here](https://www.kaggle.com/datasets/the-guardian/olympic-games) and GDP dataset (no longer available in JSON format but now in .csv format) can be accessed [here](https://datahub.io/core/gdp)
+- **Description:** I chose to combine a dataset on details of Olympic Medals (in .csv format) and a dataset on GDP of countries across years (in JSON format) to an final combined dataset in an Excel workbook. The project includes the following steps of data wrangling: data importing, conversion to Excel format, VLOOKUP matching, N/A investigation and correction, EDA (exploratory data analysis) and visualisation.
+- **Skills:** data format conversion, data wrangling, data analysis.  
+- **Tools:** Excel and MongoDB 
+- **Results:** Exploration of relationship between Olympic Medals and GDP and the ability to answer gain insight that wasn't available through either dataset individually. 
